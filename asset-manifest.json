@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy-hck/static/css/main.4e667ef2.chunk.css",
+    "main.js": "/deploy-hck/static/js/main.b39f481d.chunk.js",
+    "main.js.map": "/deploy-hck/static/js/main.b39f481d.chunk.js.map",
+    "runtime-main.js": "/deploy-hck/static/js/runtime-main.0be11fb8.js",
+    "runtime-main.js.map": "/deploy-hck/static/js/runtime-main.0be11fb8.js.map",
+    "static/js/2.02f2e02c.chunk.js": "/deploy-hck/static/js/2.02f2e02c.chunk.js",
+    "static/js/2.02f2e02c.chunk.js.map": "/deploy-hck/static/js/2.02f2e02c.chunk.js.map",
+    "index.html": "/deploy-hck/index.html",
+    "static/css/main.4e667ef2.chunk.css.map": "/deploy-hck/static/css/main.4e667ef2.chunk.css.map",
+    "static/js/2.02f2e02c.chunk.js.LICENSE.txt": "/deploy-hck/static/js/2.02f2e02c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be11fb8.js",
+    "static/js/2.02f2e02c.chunk.js",
+    "static/css/main.4e667ef2.chunk.css",
+    "static/js/main.b39f481d.chunk.js"
+  ]
+}
